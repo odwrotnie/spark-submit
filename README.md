@@ -1,3 +1,3 @@
-# Sample sbt project
+# Spark example with Submit plugin
 
-The module is for testing the plugin being developed
+Plugin: https://github.com/saurfang/sbt-spark-submit
